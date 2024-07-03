@@ -17,6 +17,7 @@ https://ollama.com/
 that's it your model will be downloaded and after that even if you have no internet you could use the models 
 
 now potential applications include 
+
 1.) R.A.G (Retrieval.Augmented.Generation)
  simply stating It ensures that the model has access to the most current, reliable facts, and that users have access to the model’s sources, ensuring that its claims can be checked for accuracy and ultimately trusted
  
