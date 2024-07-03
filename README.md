@@ -23,5 +23,7 @@ now potential applications include
 read more : https://lnkd.in/gw6yE_Ek
 
  2.) Private AI:- where companies or agencies could run their own models or implement R.A.G so that their data and security can be ensured
- 3.) Model File:- changing model file can help in specifying the usecase to LLM in general than to mention it every time eg:- if we change the model file to socratic version the LLM would only give relevent questions so that u could find the answer yourself 
+ 
+ 3.) Model File:- changing model file can help in specifying the usecase to LLM in general than to mention it every time eg:- if we change the model file to socratic version the LLM would only give relevent       
+      questions so that u could find the answer yourself 
  
